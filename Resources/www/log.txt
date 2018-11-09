@@ -1,0 +1,200 @@
+--------------------------------------
+
+2018/11/08 20:34:23  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42272,localport=12345]GET /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:24  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42274,localport=12345]GET /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:25  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42276,localport=12345]GET /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:26  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42278,localport=12345]GET /noFileWithThisName.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 128
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:27  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42280,localport=12345]GET /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:28  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42282,localport=12345]GET /page3.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:29  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42284,localport=12345]GET /another/page3.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1097
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:30  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42286,localport=12345]HEAD /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:31  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42288,localport=12345]HEAD /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:33  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42290,localport=12345]HEAD /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:34  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42292,localport=12345]HEAD /noFileWithThisName.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 128
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:35  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42294,localport=12345]HEAD /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+
+
+
+--------------------------------------
+--------------------------------------
+
+2018/11/08 20:34:36  Connection accepted at :Socket[addr=/0:0:0:0:0:0:0:1,port=42296,localport=12345]SLURP /index.html HTTP/1.1
+Host: localhost:12345
+User-Agent: curl/7.59.0
+Accept: */*
+
+Response: Header 
